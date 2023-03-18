@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpsicometria_per_orsi=self.webpackChunkpsicometria_per_orsi||[]).push([[893],{9142:e=>{e.exports=JSON.parse('{"allTagsPath":"/psicometria/blog/tags","slug":"/psicometria/blog/tags/hello","name":"hello","count":2,"permalink":"/psicometria/blog/tags/hello"}')}}]);

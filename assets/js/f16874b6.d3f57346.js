@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpsicometria_per_orsi=self.webpackChunkpsicometria_per_orsi||[]).push([[799],{3716:s=>{s.exports=JSON.parse('{"allTagsPath":"/psicometria/blog/tags","slug":"/psicometria/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/psicometria/blog/tags/docusaurus"}')}}]);
