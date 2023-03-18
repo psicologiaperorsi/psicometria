@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpsicometria_per_orsi=self.webpackChunkpsicometria_per_orsi||[]).push([[552],{524:s=>{s.exports=JSON.parse('{"allTagsPath":"/psicologiaperorsi/blog/tags","slug":"/psicologiaperorsi/blog/tags/hola","name":"hola","count":1,"permalink":"/psicologiaperorsi/blog/tags/hola"}')}}]);
